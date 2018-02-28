@@ -1,4 +1,5 @@
 a=input()
+tem=a
 
 rev=0
 
@@ -12,7 +13,7 @@ while a>0:
 
 print rev
 
-if (a==rev):
+if (temp==rev):
 
     print "palindrome"
 

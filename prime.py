@@ -14,7 +14,7 @@ while(i<n):
 
 if(prime==1):
 
-	print("It is a prime 
+	print("It is a prime number")
 else:
 	
         print("it is not a prime number")

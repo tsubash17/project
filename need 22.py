@@ -1,7 +1,7 @@
 l=[]
-n=int(input("Enter the element in array\n"))
+n=input()
 for i in range(0,n):
-	b=int(input()
+	b=input()
 	l.append(b)
 l.sort()
 print(l[-1])
